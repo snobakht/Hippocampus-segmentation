@@ -1,4 +1,4 @@
-'''Samaneh Nobakht UCI: 10059083 --- Hipocampus segmentation -- Image processing course term paper
+'''Samaneh Nobakht Hipocampus segmentation 
 This script Takes the probability map produced by atlas based segmentation (MNI atlas and harvard-oxford subcortical structural probabilistic atlas), pre-process it, runs the
 developed algorithm, post process it and returns the  segmented hipocampus with average 74% dice coeficiency based on 4 samples.
 
